@@ -10,7 +10,7 @@ It is designed to provide a smooth browsing experience across different screen s
 ## 🚀 Live Website
 
 🔗 **View Live Portfolio:**  
-https://ayush-tyagi-gold.vercel.app/#projects
+https://ayush-tyagi-gold.vercel.app/
 
 ---
 
