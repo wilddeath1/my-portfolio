@@ -51,7 +51,6 @@ my-portfolio/
 
 ## 🖼️ Screenshots
 
-(Add screenshots of your website here)
 
 ### Desktop View
 ![Desktop Screenshot](screenshots/desktop.png)
@@ -59,7 +58,6 @@ my-portfolio/
 ### Mobile View
 ![Mobile Screenshot](screenshots/mobile.png)
 
-(You can add screenshots later if not available now.)
 
 ---
 ## ⚡ How to Run This Project Locally
