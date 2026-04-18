@@ -53,10 +53,13 @@ my-portfolio/
 
 
 ### Desktop View
-![Desktop Screenshot](screenshots/desktop.png)
+![Desktop Screenshot](screenshots/ss_desktop.png)
 
 ### Mobile View
-![Mobile Screenshot](screenshots/mobile.png)
+![Mobile Screenshot](screenshots/ss_mobile.png)
+
+### Projects Section
+![Projects Screenshot](screenshots/ss_projects.png)
 
 
 ---
