@@ -58,10 +58,6 @@ my-portfolio/
 ### Mobile View
 ![Mobile Screenshot](screenshots/ss_mobile.png)
 
-### Projects Section
-![Projects Screenshot](screenshots/ss_projects.png)
-
-
 ---
 ## ⚡ How to Run This Project Locally
 
